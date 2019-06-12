@@ -13,4 +13,10 @@ I then find the index in the array that represents the year with the most living
 
 I did not implement any graphs or charts, but I do print each year with how many people were alive in that year to the console, along with the year with the most number of people alive.
 
+I wrote my code in Microsoft Visual Studios.
+To run my project you can simply download the zip from git, open the SGchallenge folder, and then double-click on the SGchallenge.sln.
+From there press start and everything should work fine.
+
 Please contact me if you have any issues running my project.
+
+capture1.png and capture2.png are examples of the program's output.
