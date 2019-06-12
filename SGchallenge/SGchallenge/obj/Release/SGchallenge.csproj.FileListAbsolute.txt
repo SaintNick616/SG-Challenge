@@ -1,0 +1,6 @@
+C:\Users\Nicholas\COM S\SG\SGchallenge\SGchallenge\bin\Release\SGchallenge.exe.config
+C:\Users\Nicholas\COM S\SG\SGchallenge\SGchallenge\bin\Release\SGchallenge.exe
+C:\Users\Nicholas\COM S\SG\SGchallenge\SGchallenge\bin\Release\SGchallenge.pdb
+C:\Users\Nicholas\COM S\SG\SGchallenge\SGchallenge\obj\Release\SGchallenge.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\COM S\SG\SGchallenge\SGchallenge\obj\Release\SGchallenge.exe
+C:\Users\Nicholas\COM S\SG\SGchallenge\SGchallenge\obj\Release\SGchallenge.pdb

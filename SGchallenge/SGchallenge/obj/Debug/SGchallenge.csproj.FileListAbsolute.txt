@@ -1,0 +1,8 @@
+C:\Users\Nicholas\COM S\SG\SGchallenge\SGchallenge\bin\Debug\SGchallenge.exe.config
+C:\Users\Nicholas\COM S\SG\SGchallenge\SGchallenge\bin\Debug\SGchallenge.exe
+C:\Users\Nicholas\COM S\SG\SGchallenge\SGchallenge\bin\Debug\SGchallenge.pdb
+C:\Users\Nicholas\COM S\SG\SGchallenge\SGchallenge\obj\Debug\SGchallenge.csprojAssemblyReference.cache
+C:\Users\Nicholas\COM S\SG\SGchallenge\SGchallenge\obj\Debug\SGchallenge.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\COM S\SG\SGchallenge\SGchallenge\obj\Debug\SGchallenge.exe
+C:\Users\Nicholas\COM S\SG\SGchallenge\SGchallenge\obj\Debug\SGchallenge.pdb
+C:\Users\Nicholas\COM S\SG\SGchallenge\SGchallenge\bin\Debug\list.txt
